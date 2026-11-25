@@ -1,0 +1,184 @@
+[
+  {
+    "id": 0,
+    "name": "Cappuccino",
+    "category": "Drinks",
+    "price": 159,
+    "description": "Espresso under a soft cap of steamed milk.",
+    "image": "/assets/menu/0.webp",
+    "milkOptions": true,
+    "photoSource": "https://www.pexels.com/photo/a-cup-of-cappuccino-with-latte-art-standing-on-a-table-20066340/"
+  },
+  {
+    "id": 1,
+    "name": "Berry pancakes",
+    "category": "Breakfast",
+    "price": 229,
+    "description": "A golden stack with berries and syrup.",
+    "image": "/assets/menu/1.webp",
+    "photoSource": "https://www.pexels.com/photo/pancakes-with-blueberries-on-white-ceramic-plate-12833170/"
+  },
+  {
+    "id": 2,
+    "name": "Blueberry cheesecake",
+    "category": "Desserts",
+    "price": 199,
+    "description": "Creamy cheesecake with a blueberry swirl.",
+    "image": "/assets/menu/2.webp",
+    "photoSource": "https://www.pexels.com/photo/a-slice-of-blueberry-cheesecake-on-a-plate-8440059/"
+  },
+  {
+    "id": 3,
+    "name": "Fresh lemonade",
+    "category": "Drinks",
+    "price": 119,
+    "description": "Fresh lemon over ice with a sprig of mint.",
+    "image": "/assets/menu/3.webp",
+    "photoSource": "https://www.pexels.com/photo/refreshing-lemonade-with-ice-and-mint-leaves-33107436/"
+  },
+  {
+    "id": 4,
+    "name": "Avocado toast",
+    "category": "Breakfast",
+    "price": 219,
+    "description": "Ripe avocado on toasted bread.",
+    "image": "/assets/menu/4.webp",
+    "photoSource": "https://www.pexels.com/photo/close-up-photo-of-toast-with-sliced-avocadoes-8443046/"
+  },
+  {
+    "id": 5,
+    "name": "Chocolate brownies",
+    "category": "Desserts",
+    "price": 149,
+    "description": "Dark chocolate squares with a fudgy centre.",
+    "image": "/assets/menu/5.webp",
+    "photoSource": "https://www.pexels.com/photo/chocolate-brownie-cut-into-squares-on-a-cutting-board-6095744/"
+  },
+  {
+    "id": 6,
+    "name": "Garlic bread",
+    "category": "Small plates",
+    "price": 139,
+    "description": "Golden toast with garlic and herbs.",
+    "image": "/assets/menu/6.webp",
+    "photoSource": "https://www.pexels.com/photo/bread-in-kitchen-10067617/"
+  },
+  {
+    "id": 7,
+    "name": "Cheese balls",
+    "category": "Small plates",
+    "price": 169,
+    "description": "Crisp golden bites with a cheesy centre.",
+    "image": "/assets/menu/7.webp",
+    "photoSource": "https://www.pexels.com/photo/a-plate-with-some-fried-balls-and-dipping-sauce-14883833/"
+  },
+  {
+    "id": 8,
+    "name": "Veggie burger",
+    "category": "Lunch",
+    "price": 239,
+    "description": "A veggie patty tucked into a sesame bun.",
+    "image": "/assets/menu/8.webp",
+    "photoSource": "https://www.pexels.com/photo/burger-with-vegetables-20722041/"
+  },
+  {
+    "id": 9,
+    "name": "Chicken burger",
+    "category": "Lunch",
+    "price": 269,
+    "description": "A chicken patty with lettuce and cheese.",
+    "image": "/assets/menu/9.webp",
+    "photoSource": "https://www.pexels.com/photo/close-up-shot-of-a-mouth-watering-chicken-burger-5474836/"
+  },
+  {
+    "id": 10,
+    "name": "Caesar salad",
+    "category": "Lunch",
+    "price": 209,
+    "description": "Crunchy greens with a creamy Caesar dressing.",
+    "image": "/assets/menu/10.webp",
+    "photoSource": "https://www.pexels.com/photo/delicious-caesar-salad-with-croutons-and-parmesan-36405551/"
+  },
+  {
+    "id": 11,
+    "name": "Greek salad",
+    "category": "Lunch",
+    "price": 199,
+    "description": "Chopped vegetables with olives and feta.",
+    "image": "/assets/menu/11.webp",
+    "photoSource": "https://www.pexels.com/photo/fresh-greek-salad-with-feta-cheese-cubes-34293330/"
+  },
+  {
+    "id": 12,
+    "name": "Cold brew",
+    "category": "Drinks",
+    "price": 169,
+    "description": "Black coffee brewed cold and served over ice.",
+    "image": "/assets/menu/12.webp",
+    "photoSource": "https://www.pexels.com/photo/cold-brew-coffee-with-ice-served-in-a-glass-34046801/"
+  },
+  {
+    "id": 13,
+    "name": "Caffè latte",
+    "category": "Drinks",
+    "price": 179,
+    "description": "Espresso with silky steamed milk and a thin cap of foam.",
+    "image": "/assets/menu/13.webp",
+    "milkOptions": true,
+    "photoSource": "https://www.pexels.com/photo/close-up-shot-of-latte-art-coffee-in-ceramic-cup-7231577/"
+  },
+  {
+    "id": 14,
+    "name": "Butter croissant",
+    "category": "Breakfast",
+    "price": 149,
+    "description": "A flaky, golden croissant with a soft buttery centre.",
+    "image": "/assets/menu/14.webp",
+    "photoSource": "https://www.pexels.com/photo/plate-with-croissant-15937218/"
+  },
+  {
+    "id": 15,
+    "name": "Mushroom cheese melt",
+    "category": "Lunch",
+    "price": 239,
+    "description": "Toasted sourdough with sautéed mushrooms and melted cheese.",
+    "image": "/assets/menu/15.webp",
+    "photoSource": "https://www.pexels.com/photo/gourmet-grilled-mushroom-sandwich-with-chips-33813618/"
+  },
+  {
+    "id": 16,
+    "name": "Tomato basil penne",
+    "category": "Lunch",
+    "price": 259,
+    "description": "Penne tossed in tomato sauce and finished with fresh basil.",
+    "image": "/assets/menu/16.webp",
+    "photoSource": "https://www.pexels.com/photo/delicious-penne-pasta-with-tomato-basil-sauce-34890641/"
+  },
+  {
+    "id": 17,
+    "name": "Potato wedges",
+    "category": "Small plates",
+    "price": 149,
+    "description": "Golden potato wedges with a creamy dipping sauce.",
+    "image": "/assets/menu/17.webp",
+    "photoSource": "https://www.pexels.com/photo/fried-potato-on-black-ceramic-plate-with-dip-on-the-side-5507577/"
+  },
+  {
+    "id": 18,
+    "name": "Cinnamon roll",
+    "category": "Desserts",
+    "price": 159,
+    "description": "A soft cinnamon swirl finished with a drizzle of icing.",
+    "image": "/assets/menu/18.webp",
+    "photoSource": "https://www.pexels.com/photo/close-up-of-icing-being-poured-over-cinnamon-roll-36863151/"
+  },
+  {
+    "id": 19,
+    "name": "Chocolate chip cookie",
+    "category": "Desserts",
+    "price": 99,
+    "description": "A golden cookie with a soft middle and dark chocolate chunks.",
+    "image": "/assets/menu/19.webp",
+    "photoSource": "https://www.pexels.com/photo/delicious-homemade-chocolate-chip-cookies-36500580/"
+  }
+]
